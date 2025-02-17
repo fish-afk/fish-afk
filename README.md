@@ -7,12 +7,12 @@
 
 # Stats :
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fish-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="fish-afk" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fish-afk&show_icons=true&locale=en&layout=compact&theme=onestar" alt="fish-afk" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish-afk&theme=radical&title=MultiLanguage,Commits,Experience,Stars,Followers,Repositories,PullRequest" alt="Github Trophies" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish-afk&theme=onestar&title=MultiLanguage,Commits,Experience,Stars,Followers,Repositories,PullRequest" alt="Github Trophies" /></a></p>
 
 ### ✍️ Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onestar)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fish-afk&icon=0&color=0)](https://visitcount.itsvg.in)
