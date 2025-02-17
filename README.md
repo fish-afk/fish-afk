@@ -9,7 +9,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fish-afk&show_icons=true&locale=en&layout=compact" alt="fish-afk" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish-afk" alt="fish-afk" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish-afk&theme=onestar" alt="Github Trophies" /></a></p>
 
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
