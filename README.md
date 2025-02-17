@@ -7,7 +7,7 @@
 
 # Stats :
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish-afk&theme=darkhub&title=MultiLanguage,Commits,Experience,Stars,Followers,Repositories,PullRequest" alt="Github Trophies" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fish-afk&theme=onestar&title=MultiLanguage,Commits,Experience,Stars,Followers,Repositories,PullRequest" alt="Github Trophies" /></a></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fish-afk&show_icons=true&locale=en&layout=compact&theme=dark&show_icons=true" alt="fish-afk" /></p>
 
